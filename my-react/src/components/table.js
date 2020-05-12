@@ -31,10 +31,8 @@ class Employeetable extends React.Component{
             <div className= 'row'>
                 <div className= 'col'>
     <div className='input-group'>
-    <input type="text" className="form-control" value={search} onChange={this.handleClick} placeholder="Enter Employee's Info Here"></input>
-    <div className="input-group-append">
-    <button className="btn btn-outline-secondary" type="button" id="button-addon2">Search</button>
-    </div>
+    <input type="text" className="form-control" value={search} onChange={this.handleClick}
+    placeholder="Enter Employee To Sort Table"></input>
     </div>
 <table className="table">
   <thead className="thead-dark">
