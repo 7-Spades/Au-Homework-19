@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/7-Spades/Au-Homework-19/issues"
   },
+  "engines": {
+    "node": "v12.13.1"
+  },
   "homepage": "https://github.com/7-Spades/Au-Homework-19#readme"
 }
