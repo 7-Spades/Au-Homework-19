@@ -6,7 +6,7 @@ var PORT = process.env.PORT || 8000;
 
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
-app.use(express.static("build"))
+app.use(express.static("my-react/build"))
 
 //routing code
 app.get("/", function(req, res){

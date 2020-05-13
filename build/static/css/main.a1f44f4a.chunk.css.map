@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,WACI,UAAW,CACX,YAAa,CACb,KAAM,CACN,MACJ,CAEA,OACI,qBAAuB,CACvB,WACJ","file":"main.a1f44f4a.chunk.css","sourcesContent":[".front-img{\r\n    width: 100%;\r\n    height: 260px;\r\n    top: 0;\r\n    left: 0;\r\n}\r\n\r\n.footy{\r\n    background-color: black;\r\n    height: 50px;\r\n}"]}
